@@ -1,22 +1,30 @@
 switch (new Date().getDay()) {
     case 0:
-      day = "Sunday";
+      console.log("Sunday");
+      console.log(new Date)
       break;
     case 1:
-      day = "Monday";
+      console.log("Monday");
+      console.log(new Date)
       break;
     case 2:
-       day = "Tuesday";
+      console.log("Tuesday");
+      console.log(new Date)
       break;
     case 3:
-      day = "Wednesday";
+      console.log("Wednesday");
+      console.log(new Date)
       break;
     case 4:
-      day = "Thursday";
+      console.log("Thursday");
+      console.log(new Date)
       break;
     case 5:
-      day = "Friday";
+      console.log("Friday");
+      console.log(new Date)
       break;
     case 6:
-      day = "Saturday";
+      console.log("Saturday");
+      console.log(new Date)
+      break
   }

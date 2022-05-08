@@ -15,7 +15,7 @@ else if(number % 7==0){
    console.log("late")
 }
 else if(number % 3 == 0){
-   console.log("choco")
+   console.log("Choco")
 }
 
 else {

@@ -14,11 +14,9 @@
 
 
 // var num=require("readline-sync");
-// let number =num.questionInt("enter the number :")
+// let number =num.question("enter the number :")
 // var a=number.length-2;
-// var e=Number(number)
-// var b=Math.floor(number/10**a)
-// // var b=(Number (Math.floor(number/10**a)));
+// var b=Number(Math.floor(number/10)**a)
 // var c=b%10;
 // if (c==3){
 //     console.log("yes")
@@ -27,3 +25,6 @@
 //     console.log("no")
 // }
 
+
+// console.log((Math.floor(1324/10)))
+// console.log(1324**3)

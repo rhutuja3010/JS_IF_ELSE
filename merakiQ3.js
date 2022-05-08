@@ -1,5 +1,5 @@
 
-var choice ="overcast";
+var choice ="overcas";
 var message ="" 
 if (choice === 'sunny') {
     message = 'It is nice and sunny outside today. \nWear shorts! Go to the beach, or the park, and get an ice cream.'

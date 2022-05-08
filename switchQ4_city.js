@@ -9,7 +9,7 @@
 var city_name="Agra";
 switch (city_name){
     case "Delhi":
-    console.log("Red Fort")
+        console.log("Red Fort")
         break;
     case "Agra":
         console.log("Taj Mahal")

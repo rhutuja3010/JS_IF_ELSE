@@ -1,11 +1,11 @@
-let x = "0";
+let x = 1;
 switch (x) {
   case 0:
-    text = "Off";
+    console.log("OFF");
     break;
   case 1:
-    text = "On";
+    console.log("ON");
     break;
   default:
-    text = "No value found";
+   console.log("No value found");
 } 

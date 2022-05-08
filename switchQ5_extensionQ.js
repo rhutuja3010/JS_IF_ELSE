@@ -3,9 +3,13 @@
 // Output : java
 
 
-var ex="abc.java";
-switch (ex){
-    case "abc.java":
-        console.log(ex[-4])
-        break
+var a="abc.java";
+b=a.split("")
+// console.log(b)
+function fun(){
+        // let a="abc.java"
+        b.splice(0,4)
+        console.log(b.join(""))
+        // break
 }
+fun()
